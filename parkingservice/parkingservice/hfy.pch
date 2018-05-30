@@ -1,0 +1,15 @@
+//
+//  hfy.pch
+//  parkingservice
+//
+//  Created by 柯思汉 on 17/9/20.
+//  Copyright © 2017年 KKK. All rights reserved.
+//
+
+#ifndef hfy_pch
+#define hfy_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* hfy_pch */
